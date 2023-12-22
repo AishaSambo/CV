@@ -1,6 +1,2 @@
-# CV
-my personal website.html
-what we offer.html
-hobbies.html
-Some of my graphic design works.html
-contact me.html
+
+https://drive.google.com/drive/folders/12Licp21yO5QoMqC-MXc1P5pAqUm3ZVxu
